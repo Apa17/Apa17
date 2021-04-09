@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Apa17
 - 👀 I’m interested in Videogames and Programming.
 - 🌱 I’m currently learning c++
-- 📫 How to reach me? Through my email: matias.lopez.vilar@fing.edu.uy
+- 📫 How to reach me? Through my email.
 
 <!---
 Apa17/Apa17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
