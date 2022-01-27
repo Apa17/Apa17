@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apa17
 - 👀 I’m interested in Videogames and Programming.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning React and Nest Js
 - 📫 How to reach me? Through my email.
 
 <!---
