@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Apa17
 - 👀 I’m interested in Videogames and Programming.
-- 🌱 I’m currently learning React and Nest Js
+- 🌱 I’m currently learning computer engineering in FIng.
 - 📫 How to reach me? Through my email.
 
 <!---
